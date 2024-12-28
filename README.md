@@ -10,9 +10,4 @@ Final year undergraduate student of Engineering Physics at Gadjah Mada Universit
 - **Internship**:
 - **Course**:
 
-#### Connect with me
-[<img align="left" alt="Nurrizky Ajihan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nurrizkyajihan/) [LinkedIn](https://www.linkedin.com/in/nurrizkyajihan/)
-
-[<img align="left" alt="Nurrizky Ajihan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nurrizky_ajihan/) [Instagram](https://www.instagram.com/nurrizky_ajihan/)
-
-[<img align="left" alt="Nurrizky Ajihan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/@nurrizkyajihan) [YouTube](https://www.youtube.com/@nurrizkyajihan)
+- You can reach me through email: nurrizky.ajihan@mail.ugm.ac.id 
