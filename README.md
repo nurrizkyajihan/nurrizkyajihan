@@ -10,4 +10,4 @@ Final year undergraduate student of Engineering Physics at Gadjah Mada Universit
 - **Internship**:
 - **Course**:
 
-- You can reach me through email: nurrizky.ajihan@mail.ugm.ac.id 
+You can reach me through email: nurrizky.ajihan@mail.ugm.ac.id 
